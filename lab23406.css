@@ -1,0 +1,67 @@
+h1 {
+    font-family: 'Acme', sans-serif;
+    color: coral;text-align: center;
+}
+  td {
+    width: 100px;
+    height: 100px;
+  }
+  table {
+    margin: 5px auto;
+  }
+  #vert0 {
+    border-top: 5px solid black;
+    border-bottom: 5px solid black;
+    border-right: 5px solid black;
+    border-left: 5px solid black;
+  }
+  #vert1 {
+    border-top: 5px solid black;
+    border-right: 5px solid black;
+    border-bottom: 5px solid black;
+  }
+  #vert2 {
+    border-top: 5px solid black;
+    border-bottom: 5px solid black;
+    border-right: 5px solid black;
+  }
+  #vert3 {
+    border-bottom: 5px solid black;
+    border-right: 5px solid black;
+    border-left: 5px solid black;
+  }
+  #vert4 {
+    border-bottom: 5px solid black;
+    border-right: 5px solid black;
+  }
+  #vert5 {
+    border-right: 5px solid black;
+    border-bottom: 5px solid black;
+    
+    
+  }
+  #vert6 {
+    border-left: 5px solid black;
+    border-right: 5px solid black;
+    border-bottom: 5px solid black;
+  }
+  #vert7 {
+    border-right: 5px solid black;
+    border-bottom: 5px solid black;
+  }
+  #vert8{
+    border-right: 5px solid black;
+    
+    border-bottom: 5px solid black;
+  }
+  
+  .pic{
+    width: 100px;
+    height: 100px;
+  }
+  #win {
+    text-align: center;
+    font-size: 50px;
+    font-family: 'Acme', sans-serif;
+    color : rgb(255, 48, 68);
+  }
